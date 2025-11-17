@@ -2,6 +2,9 @@
   <dictionary name="project">
     <words>
       <w>kcadmin</w>
+      <w>kcadmintest</w>
+      <w>testpassword</w>
+      <w>testuser</w>
     </words>
   </dictionary>
 </component>
